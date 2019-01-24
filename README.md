@@ -1,11 +1,19 @@
 # Illustrator
-Adobe Illustrator Scripts and tricks
+Adobe Illustrator Scripts tricks and tutorials
 
 ### Table of Contents
+* Script
+    * Random Rotation
+* Adobe Illustrator SDK 2017 on Windows 10 Pro Tutorial
 
 
 
+#  **Scripts**
 
+### Random Rotation
+
+Script designed for random rotation of selected objects. Select object and run script  
+![](https://github.com/kilkucom/Illustrator/blob/master/git/RandomRotation.gif)
 
 # **Adobe Illustrator SDK 2017 on Windows 10 Pro Tutorial**
 *Windows 10 Pro x64, Adobe Illustrator CC 23.0.1 (64b-bit)*
