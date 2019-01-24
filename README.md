@@ -12,6 +12,8 @@ Adobe Illustrator Scripts tricks and tutorials
 
 ### Random Rotation
 
+
+
 Script designed for random rotation of selected objects. Select object and run script  
 ![](https://github.com/kilkucom/Illustrator/blob/master/git/RandomRotation.gif)
 

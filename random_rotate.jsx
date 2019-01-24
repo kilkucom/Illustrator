@@ -1,3 +1,5 @@
+// simply random rotation
+
 doc = app.activeDocument;
 selected = doc.selection;
 nSel = selected.length;
@@ -22,3 +24,10 @@ for(i=0; i<nSel; i++)
 	resRotate = Math.floor(Math.random() * (rotateMax - rotateMin + 1)) + rotateMin;
 	selected[i].rotate(resRotate, resRotate);
 }
+
+/*
+TO DO
+ - wrap in to a js function
+ - build UI rotate min rotate max seed and preview
+ - update discription in README.md
+*/
